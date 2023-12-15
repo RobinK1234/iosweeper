@@ -186,5 +186,3 @@ struct GameView_Previews: PreviewProvider {
         GameView()
     }
 }
-
-// Make sure to have ContentView defined in your project for the back navigation to work.
